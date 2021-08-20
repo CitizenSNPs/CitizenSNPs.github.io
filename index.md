@@ -17,7 +17,7 @@
 
 ---
 
-### Workflows & Integration
+### QC Workflows & Integration
 
 [LIMS Workflow](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -28,8 +28,13 @@
 
 ---
 
+[Sample Sheets](/sample_page)
+<img src="images/ForMario.png?raw=true"/>
 
-### Workflows & Integration
+---
+
+
+### 3
 
 - [Project 1 Title](http://example.com/)
 
