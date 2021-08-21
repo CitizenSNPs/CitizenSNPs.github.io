@@ -17,4 +17,5 @@ I attended WeWork's <i>Intermediate/Advanced Tableau Visualization Training</i> 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<i>Any Personally-Indentifiable or Protected Health Information has been removed to ensure fair-use. </i>
 
