@@ -11,7 +11,7 @@ A few of my projects include:
 -Nighthawk, Razorfish+, and Excalibur assays
 
 My experience with Lab Management includes:
--Equipment onboarding
+-Equipment onboarding into Equipment Asset Maintainer (EAS)
 -5S
 -Equipment PQ/IQ/OQ
 -Customer Service
