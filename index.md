@@ -42,7 +42,7 @@
 ---
 
 
-### 3
+### Lab Related Projects
 
 - [Project 1 Title](http://example.com/)
 
