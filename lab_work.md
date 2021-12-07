@@ -5,9 +5,14 @@ A few of my projects include:
 -LIMS tracking
 -BeadPool Manufacturing
 -Infinium pharmacogenetics assay
+  -feasibility
 -Troubleshooting and maintenance
+-Creating test protocols
+-Nighthawk, Razorfish+, and Excalibur assays
 
 My experience with Lab Management includes:
 -Equipment onboarding
 -5S
 -Equipment PQ/IQ/OQ
+-Customer Service
+
