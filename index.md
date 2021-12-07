@@ -22,8 +22,11 @@
 [Automation & Machine Scripting](/lab_work)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Validations](/validations)
+---
+
+[Validations] (/validations)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### LIMS Development
