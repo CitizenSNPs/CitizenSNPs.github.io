@@ -24,7 +24,7 @@
 
 ---
 
-[Validations](/validations)
+[Software Validation](/validations)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
