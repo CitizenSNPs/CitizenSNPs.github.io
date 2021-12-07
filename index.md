@@ -17,6 +17,13 @@
 
 ---
 
+### Lab Related Projects
+
+[Automation & Machine Scripting](/lab_work)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### QC Workflows & Integration
 
 [LIMS Workflow](/sample_page)
