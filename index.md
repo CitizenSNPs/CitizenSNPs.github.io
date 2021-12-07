@@ -17,14 +17,16 @@
 
 ---
 
-### Lab Related Projects
+### Lab Management & Automation
 
 [Automation & Machine Scripting](/lab_work)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Validations](/validations)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
-### QC Workflows & Integration
+### LIMS Development
 
 [LIMS Workflow](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
