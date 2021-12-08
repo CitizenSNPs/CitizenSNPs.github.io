@@ -14,8 +14,8 @@ A few of my projects include:</br>
 I attended the Eppendorf Automation Summit in 2019. There I learned several lab-based platforms to fit various user needs. Using this knowledge, I led a project in late 2020 to automate Illumina's sample prep sequencing platform via the Cybio FeliX. I also attended a 2021 Webinar on the challenges and developments in the vaccine industry and its role in process development. 
 
 #Certifications</br>
--Hamilton MICROLAB VENUS Software Traning I #VST119.11
--Tecan EvoWare Liquid Standard Standard Software Training I
+-Hamilton MICROLAB VENUS Software Traning I #VST119.11</br>
+-Tecan EvoWare Liquid Standard Standard Software Training I</br>
 
 
 My experience with Lab Management includes:
