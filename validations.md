@@ -2,7 +2,7 @@ In my time as a data analyst, I've had experience leading a few software validat
 
 I have experience revising SOPs and writing validation plans, creating pass/fail conditions via test cases (JIRA), and --- conditions via a validation report. 
 
-My experience lies primarily in creating manual tests to provide a positive user experience by ensuring overall usability.
+My experience lies primarily in creating manual tests to provide a positive user experience by ensuring overall usability. From this, we can see what parts of the process can be improved, and ensure functionality.
 -Design & Development Plan
   -Risk analysis (QA)
 -Validation plan
