@@ -8,7 +8,7 @@ Process validation consists of a series of test cases where every test case is p
 
 This involves building user requirements, creating prerequisite data, defining acceptable performance and creating executable test conditions within a test protocol. At the conclusion of the validation effort, a validation report can be created. The report will summarize the test results and determine if the application is acceptable for operational use. If test cases do not pass, a deviation report can be drafted and evelated to QA.
 
-*Include example of JIRA test case
+*Include example of JIRA test case - edit example from Capture.png
 *Include each component in a bubble - Scope/Prerequisite Data/setting up test environment/definiing acceptable performance/Supplemental Documents/Test Cases/Subsequent Test Report
 
 -Design & Development Plan
