@@ -4,6 +4,12 @@ I have experience revising SOPs and writing validation plans, creating pass/fail
 
 My experience lies primarily in creating manual tests to provide a positive user experience by ensuring overall usability. From this, we can see what parts of the process can be improved, and ensure functionality. We then gain test protocol feedback by creating several pass/fail conditions encapsulated in test cases, then deliver this feedback via a validation report which passes through an interdepartmental team via several review cycles. The process helps identify bugs and to identify gaps in the SOP and QC workflow.
 
+Process validation consists of a series of test cases where every test case is paired with test descriptions and corresponding expected results. The tests must be simple and single-use to validate each specific feature. 
+
+This involves building user requirements, creating prerequisite data, defining acceptable performance and creating executable test conditions within a test protocol. At the conclusion of the validation effort, a validation report can be created. The report will summarize the test results and determine if the application is acceptable for operational use. If test cases do not pass, a deviation report can be drafted and evelated to QA.
+
+*Include example of JIRA test case
+*Include each component in a bubble - Scope/Prerequisite Data/setting up test environment/definiing acceptable performance/Supplemental Documents/Test Cases/Subsequent Test Report
 
 -Design & Development Plan
   -Risk analysis (QA)
