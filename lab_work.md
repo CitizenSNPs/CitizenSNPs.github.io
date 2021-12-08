@@ -1,9 +1,12 @@
 
-Working in lab management, I had the benefit of managing, automating, and working with a host of laboratory equipment. My experience includes, but is not limited to, Tecan EVO, Hamilton Star, Cybio FeliX, and the Agilent 2100 BioAnalyzer. I've attended onsite liquid-handling training for the Hamilton STAR, STARlet, and STARplus, as well as online training for the TecanEVO, and received certifications for both. I have experience scripting several microarray assays, including Illumina's Infinium and pharmacogenetics assays on both the Tecan and Hamilton STAR. My process includes buidling requirements to fit the needs of lab users. This invlolves quite a bit of offline testing and parameter tracking. I create a deck layout using the liquid handling platform, add manual sequences, import the libraries, then BAM! From there, I can develop the protocol using new submethods and push any tracked data to the LIMS. Sequence data can be tracked and edited; I can then modularize my workflows for a subsequent import.
+Working in lab management, I had the benefit of managing, automating, and working with a host of laboratory equipment. My experience includes, but is not limited to, method development Tecan EVO, Hamilton Star, Cybio FeliX, and the Agilent 2100 BioAnalyzer, fragment analyzers, equipment maintenance, and overall customer service. My background lies primarily in product improvement, specifically liquid-handler automation. 
+
+I've attended onsite liquid-handling training for the Hamilton STAR, STARlet, and STARplus, as well as online training for the TecanEVO to repair LiHa, RoMa, PosID components, and received certifications for both. I have experience scripting several microarray assays, including Illumina's Infinium and pharmacogenetics assays on both the Tecan and Hamilton STAR. My process includes buidling requirements to fit the needs of lab users. This invlolves quite a bit of offline testing and parameter tracking. I create a deck layout using the liquid handling platform, add manual sequences, import the libraries, then BAM! From there, I can develop the protocol using new submethods and push any tracked data to the LIMS. Sequence data can be tracked and edited; I can then modularize my workflows for a subsequent import.
 
 A few of my projects include:</br>
 -LIMS tracking</br>
 -BeadPool Manufacturing</br>
+eliminated manual handling for plate sealing by installing an on-deck automatic plate sealer to the BPM Hamilton deck.</br>
 -Infinium pharmacogenetics assay</br>
   -feasibility</br>
 -Troubleshooting and maintenance</br>
