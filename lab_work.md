@@ -30,3 +30,6 @@ My experience with Lab Management includes:
 -Equipment PQ/IQ/OQ
 -Customer Service
 
+Illumina's ref manual
+https://www.illumina.com/content/dam/illumina-support/documents/documentation/system_documentation/mlstar/hamilton-ml-star-reference-guide-15070074-a.pdf
+
