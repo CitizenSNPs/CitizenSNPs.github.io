@@ -3,6 +3,7 @@ Working in lab management, I had the benefit of managing, automating, and workin
 
 A few of my projects include:
 -LIMS tracking
+</br>
 -BeadPool Manufacturing
 -Infinium pharmacogenetics assay
   -feasibility
