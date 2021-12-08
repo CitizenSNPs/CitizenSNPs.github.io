@@ -2,4 +2,4 @@ Below are examples of data mining, machine learning, and exploratory analysis us
 
 *data cleaning
 
-what is this: The following is exploratory analysis I conducted in 2017 to investigated conconcordant lab data. Any and all PII/PHI/proprietary data has been stripped to ensure fair use.
+what is this: The following is exploratory analysis I conducted in 2017 to investigated conconcordant lab data. Any and all PII/PHI/proprietary data has been stripped to ensure fair use. This data is not to be shared.
