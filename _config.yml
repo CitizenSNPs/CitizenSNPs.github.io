@@ -13,7 +13,9 @@ description:
   <a href="https://www.linkedin.com/in/derelle-kirksey-4535b211b/"><img src="images/linkedin2.png?raw=true" width="30" height="30"/></a> 
   <a href="https://www.linkedin.com/in/derelle-kirksey-4535b211b/"><img src="images/github.png?raw=true" width="30" height="30"/></a> 
   
-  <a href="./directory/yourfile.pdf" download="newfilename">Resume</a>
+  Resume
+  <a href="/images/Derelle_Kirksey_Resume_2021.pdf" download="DPK_Resume.pdf">PDF</a>
+  <a href="/images/Derelle_Kirksey_Resume_2021.docx" download="DPK_Resume.docx">DOCX</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
