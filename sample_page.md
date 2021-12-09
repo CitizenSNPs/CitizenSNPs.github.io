@@ -17,7 +17,8 @@ I attended WeWork's <i>Intermediate/Advanced Tableau Visualization Training</i> 
 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<a href="/jupyters.md"><img src=/images/transparent-python-icon-development-icon-5fc9238ae6f1e2.901731871607017354946.jpg" style="width:50px;height:50px;"></a>
+<br>
+<a href="./jupyters.md"><img src="./images/transparent-python-icon-development-icon-5fc9238ae6f1e2.901731871607017354946.jpg"></a>
 
 
 <i>Any Personally-Indentifiable or Protected Health Information has been removed to ensure fair-use. </i>
