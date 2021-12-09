@@ -1,7 +1,8 @@
+## Laboratory Work
 
-Working in lab management, I had the benefit of managing, automating, and working with a host of laboratory equipment. My experience includes, but is not limited to, method development Tecan EVO, Hamilton Star, Cybio FeliX, and the Agilent 2100 BioAnalyzer, fragment analyzers, equipment maintenance, and overall customer service. My background lies primarily in product improvement, specifically liquid-handler automation. 
+**What is this?** Working in lab management, I had the benefit of managing, automating, and working with a host of laboratory equipment. My experience includes, but is not limited to, method development Tecan EVO, Hamilton Star, Cybio FeliX, and the Agilent 2100 BioAnalyzer, fragment analyzers, equipment maintenance, and overall customer service. My background lies primarily in product improvement, specifically liquid-handler automation. 
 
-I've attended onsite liquid-handling training for the Hamilton STAR, STARlet, and STARplus, as well as online training for the TecanEVO to repair LiHa, RoMa, PosID components, and received certifications for both. I have experience scripting several microarray assays, including Illumina's Infinium and pharmacogenetics assays on both the TecanEvo and Hamilton STAR. My process includes buidling requirements to fit the needs of lab users. This invlolves quite a bit of offline testing and parameter tracking. I create a deck layout using the liquid handling platform, add manual sequences, import the libraries, then BAM! From there, I can develop the protocol using new submethods and push any tracked data to the LIMS. Sequence data can be tracked and edited; I can then modularize my workflows for a subsequent import.
+**Background:** I've attended onsite liquid-handling training for the Hamilton STAR, STARlet, and STARplus, as well as online training for the TecanEVO to repair LiHa, RoMa, PosID components, and received certifications for both. I have experience scripting several microarray assays, including Illumina's Infinium and pharmacogenetics assays on both the TecanEvo and Hamilton STAR. My process includes buidling requirements to fit the needs of lab users. This invlolves quite a bit of offline testing and parameter tracking. I create a deck layout using the liquid handling platform, add manual sequences, import the libraries, then BAM! From there, I can develop the protocol using new submethods and push any tracked data to the LIMS. Sequence data can be tracked and edited; I can then modularize my workflows for a subsequent import.
 
 I have some familiarity with Archimedes scanners and extensive experience with iScans, including performing IQ/OQ/PQ tasks. In my time as an Automation Engineer, I took the time to develop an engineering quality manual to outline my progress and to develop the role for future hires. This includes method development & SOPs, user training, PM tracking, routine maintenance, service contracts, manuals, and asset tag management.
 
@@ -19,7 +20,7 @@ development of enrichment method to Illumina's Razorfish automated assay
 
 I attended the Eppendorf Automation Summit in 2019. There I learned several lab-based platforms to fit various user needs. Using this knowledge, I led a project in late 2020 to automate Illumina's sample prep sequencing platform via the Cybio FeliX. I also attended a 2021 Webinar on the challenges and developments in the vaccine industry and its role in process development. 
 
-#Certifications</br>
+### Certifications
 -Hamilton MICROLAB VENUS Software Traning I #VST119.11</br>
 -Tecan EvoWare Liquid Standard Standard Software Training I</br>
 
@@ -30,9 +31,11 @@ My experience with Lab Management includes:
 -Equipment PQ/IQ/OQ
 -Customer Service
 
-Illumina's ref manuals:
-https://www.illumina.com/content/dam/illumina-support/documents/documentation/system_documentation/mlstar/hamilton-ml-star-reference-guide-15070074-a.pdf
-https://support-docs.illumina.com/ARR/iScan/Content/ARR/FrontPages/iscan.htm
-https://support.illumina.com/content/dam/illumina-marketing/documents/products/datasheets/datasheet_lims.pdf
-*pic from Capture 2: https://www.illumina.com/techniques/sequencing/ngs-library-prep/dna.html
+### References
+Reference manuals:<br>
+
+<i>iScan:</i> <i>https://support-docs.illumina.com/ARR/iScan/Content/ARR/FrontPages/iscan.htm</i><br>
+<i>Illumina LIMS:</i>  <i>https://support.illumina.com/content/dam/illumina-marketing/documents/products/datasheets/datasheet_lims.pdf</i><br>
+<i>Hamilton STAR:</i>  <i>https://www.illumina.com/content/dam/illumina-support/documents/documentation/system_documentation/mlstar/hamilton-ml-star-reference-guide-15070074-a.pdf</i><br>
+<b>*pic from Capture 2:</b></i> https://www.illumina.com/techniques/sequencing/ngs-library-prep/dna.html
 
