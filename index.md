@@ -8,10 +8,6 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Jupyter Notebooks](/jupyters.md)
-<img src="images/transparent-python-icon-development-icon-5fc9238ae6f1e2.901731871607017354946.jpg?raw=true"/>
-
----
 
 ### Lab Management & Automation
 
