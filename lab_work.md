@@ -7,6 +7,7 @@ Working in lab management, I had the benefit of automating and managing a host o
 **Equipment:** Though most of my experience lies in liquid-handler automation, my background lies primarily in product and process improvement; through this, I've gained a fair amount of experience managing a wide variety of laboratory equipment, including fragment analyzers, bioanalyzers, and laser scanners. 
 
 <span>
+<img src="./images/bioanalyzer.png" style="height:220px; width:190px">
 <img src="./images/iscan.png" style="height:200px; width:425px">
 <img src="./images/cybio.png" style="height:200px; width:300px">
 </span>
