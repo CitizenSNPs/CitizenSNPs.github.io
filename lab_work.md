@@ -7,7 +7,8 @@ Working in lab management, I had the benefit of automating and managing a host o
 I have experience scripting several microarray assays, including Illumina's Infinium and enrichment BeadArray assays on both the Tecan and Hamilton STAR, and I have a wealth of experience in LIMS integration and parameter tracking. My process includes building requirements to fit the needs of our lab users. Once the parameters are set, I can begin developing workflows by creating manual sequences and new libraries to supplement any lab method, and fit these metrics for LIMS tracking. Sequence data can be tracked and edited, and I make sure to keep my scripts modularized for subsequent import. 
 
 A few of my projects include:<br>
-<i><ul><li>BeadPool Manufacturing<br>
+<i><ul>
+  <li>BeadPool Manufacturing<br>
   <li>Illumina's Infinium pharmacogenetics assay (Excalibur)<br>
     <li>development of enrichment method to Illumina's Razorfish automated assay<br>
   <li>ADNA Health (Feasibility)<br>
