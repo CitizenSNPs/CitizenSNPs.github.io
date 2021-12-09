@@ -20,7 +20,7 @@ I attended WeWork's <i>Intermediate/Advanced Tableau Visualization Training</i> 
 
 ### Jupyter Notebooks
 
-**What is this?** Below are examples of data mining, machine learning, and exploratory analysis I conducted to kickstart this dashboard. I use MS SQL Server and Python's pandas and scikit-learn library for data cleaning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site at -----.
+**What is this?** Click the icon below to see examples data mining I conducted to kickstart this dashboard. I use MS SQL Server and Python's pandas library for data cleaning and exploratory analysis, Python's scikit-learn library for machine learning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site at -----.
 
 <a href="./jupyters.md"><img src="./images/transparent-python-icon-development-icon-5fc9238ae6f1e2.901731871607017354946.jpg"></a>
 
