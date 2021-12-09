@@ -12,9 +12,10 @@ description:
   <a href="https://www.linkedin.com/in/derelle-kirksey-4535b211b/"><img src="images/google-plus.png?raw=true" width="30" height="30" /></a> 
   <a href="https://www.linkedin.com/in/derelle-kirksey-4535b211b/"><img src="images/linkedin2.png?raw=true" width="30" height="30"/></a> 
   <a href="https://www.linkedin.com/in/derelle-kirksey-4535b211b/"><img src="images/github.png?raw=true" width="30" height="30"/></a> 
-  
+  <br>
+  <br>
   Resume
-  <a href="/images/Derelle_Kirksey_Resume_2021.pdf" download="DPK_Resume.pdf">PDF</a>
+  <a href="./images/Derelle_Kirksey_Resume_2021.pdf" download="DPK_Resume.pdf">PDF</a>
   <a href="/images/Derelle_Kirksey_Resume_2021.docx" download="DPK_Resume.docx">DOCX</a>
   
 theme: jekyll-theme-minimal
