@@ -1,8 +1,6 @@
 ## Laboratory Work
 
-**Background:** Working in lab management, I had the benefit of automating and managing a host of laboratory equipment. 
-
-I've had the opportunity to attend onsite training for the Hamilton STAR liquid-handling models, as well as training for the Tecan Freedom EVO platform to repair on-deck components, and have received certifications for both. I have experience scripting several microarray assays, including Illumina's Infinium and enrichment BeadArray assays on both the Tecan and Hamilton STAR, and I have a wealth of experience in LIMS integration and parameter tracking. My process includes building requirements to fit the needs of our lab users. Once the parameters are set, I can begin developing workflows by creating manual sequences and new libraries to supplement any lab method, and fit these metrics for LIMS tracking. Sequence data can be tracked and edited, and I make sure to keep my scripts modularized for subsequent import.
+**Background:** Working in lab management, I had the benefit of automating and managing a host of laboratory equipment. My time there gave me the opportunity to attend onsite trainings for the Hamilton STAR liquid-handling models, as well as training for the Tecan Freedom EVO platform to repair on-deck components, and have received certifications for both. I have experience scripting several microarray assays, including Illumina's Infinium and enrichment BeadArray assays on both the Tecan and Hamilton STAR, and I have a wealth of experience in LIMS integration and parameter tracking. My process includes building requirements to fit the needs of our lab users. Once the parameters are set, I can begin developing workflows by creating manual sequences and new libraries to supplement any lab method, and fit these metrics for LIMS tracking. Sequence data can be tracked and edited, and I make sure to keep my scripts modularized for subsequent import.
 
 **Equipment:** Though most of my experience lies in liquid-handler automation, my background lies primarily in product and process improvement; through this, I've gained a fair amount of experience managing a wide variety of laboratory equipment, including fragment analyzers, bioanalyzers, and laser scanners. 
 
@@ -43,11 +41,6 @@ eliminated manual handling for plate sealing by installing an on-deck automatic 
 -Creating test protocols</br>
 -Nighthawk, Razorfish+, and Excalibur assays</br>
 development of enrichment method to Illumina's Razorfish automated assay
-
-
-
-
-
 
 
 ### References
