@@ -1,8 +1,35 @@
 ## Laboratory Work
 
-**What is this?** Working in lab management, I had the benefit of managing, automating, and working with a host of laboratory equipment. My experience includes, but is not limited to, method development Tecan EVO, Hamilton Star, Cybio FeliX, and the Agilent 2100 BioAnalyzer, fragment analyzers, equipment maintenance, and overall customer service. My background lies primarily in product improvement, specifically liquid-handler automation. 
+**Background:** Working in lab management, I had the benefit of automating and managing a host of laboratory equipment. 
 
-**Background:** I've attended onsite liquid-handling training for the Hamilton STAR, STARlet, and STARplus, as well as online training for the TecanEVO to repair LiHa, RoMa, PosID components, and received certifications for both. I have experience scripting several microarray assays, including Illumina's Infinium and pharmacogenetics assays on both the TecanEvo and Hamilton STAR. My process includes buidling requirements to fit the needs of lab users. This invlolves quite a bit of offline testing and parameter tracking. I create a deck layout using the liquid handling platform, add manual sequences, import the libraries, then BAM! From there, I can develop the protocol using new submethods and push any tracked data to the LIMS. Sequence data can be tracked and edited; I can then modularize my workflows for a subsequent import.
+I've had the opportunity to attend onsite training for the Hamilton STAR liquid-handling models, as well as training for the Tecan Freedom EVO platform to repair on-deck components, and have received certifications for both. I have experience scripting several microarray assays, including Illumina's Infinium and enrichment BeadArray assays on both the Tecan and Hamilton STAR, and I have a wealth of experience in LIMS integration and parameter tracking. My process includes building requirements to fit the needs of our lab users. Once the parameters are set, I can begin developing workflows by creating manual sequences and new libraries to supplement any lab method, and fit these metrics for LIMS tracking. Sequence data can be tracked and edited, and I make sure to keep my scripts modularized for subsequent import.
+
+**Equipment:** Though most of my experience lies in liquid-handler automation, my background lies primarily in product and process improvement; through this, I've gained a fair amount of experience managing a wide variety of laboratory equipment, including fragment analyzers, bioanalyzers, and laser scanners. 
+
+
+<i>include "icons" of lab equipment with links to ref manuals" </i>
+
+Tecan EVO, Hamilton Star, Cybio FeliX, and the Agilent 2100 BioAnalyzer, fragment analyzers
+
+My experience with these equipments lies primarily in:
+-Method development
+-Equipment onboarding
+-PQ/IQ/OQ tasks
+
+I attended the Eppendorf Automation Summit in 2019. There I learned several lab-based platforms to fit various user needs. Using this knowledge, I used this knowledge to lead a project in late 2020 to automate Illumina's sample prep sequencing platform via the Cybio FeliX. I also attended a 2021 Webinar on process development and its challenges/developments in the vaccine industry.
+
+### Certifications
+-Hamilton MICROLAB VENUS Software Traning I #VST119.11</br>
+-Tecan EvoWare Liquid Standard Standard Software Training I</br>
+
+**Methods**
+
+
+
+I create a deck layout using the liquid handling platform, add manual sequences, import the libraries, then BAM! From there, I can develop the protocol using new submethods and push any tracked data to the LIMS. Sequence data can be tracked and edited; I can then modularize my workflows for a subsequent import.
+
+
+**Background:**
 
 I have some familiarity with Archimedes scanners and extensive experience with iScans, including performing IQ/OQ/PQ tasks. In my time as an Automation Engineer, I took the time to develop an engineering quality manual to outline my progress and to develop the role for future hires. This includes method development & SOPs, user training, PM tracking, routine maintenance, service contracts, manuals, and asset tag management.
 
@@ -18,18 +45,10 @@ eliminated manual handling for plate sealing by installing an on-deck automatic 
 development of enrichment method to Illumina's Razorfish automated assay
 
 
-I attended the Eppendorf Automation Summit in 2019. There I learned several lab-based platforms to fit various user needs. Using this knowledge, I led a project in late 2020 to automate Illumina's sample prep sequencing platform via the Cybio FeliX. I also attended a 2021 Webinar on the challenges and developments in the vaccine industry and its role in process development. 
-
-### Certifications
--Hamilton MICROLAB VENUS Software Traning I #VST119.11</br>
--Tecan EvoWare Liquid Standard Standard Software Training I</br>
 
 
-My experience with Lab Management includes:
--Equipment onboarding into Equipment Asset Maintainer (EAS)
--5S
--Equipment PQ/IQ/OQ
--Customer Service
+
+
 
 ### References
 Reference manuals:<br>
