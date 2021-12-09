@@ -18,6 +18,7 @@ I attended WeWork's <i>Intermediate/Advanced Tableau Visualization Training</i> 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br>
+### Jupyter Notebooks
 <a href="./jupyters.md"><img src="./images/transparent-python-icon-development-icon-5fc9238ae6f1e2.901731871607017354946.jpg"></a>
 
 
