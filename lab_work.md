@@ -6,15 +6,13 @@ Working in lab management, I had the benefit of automating and managing a host o
 
 **Equipment:** Though most of my experience lies in liquid-handler automation, my background lies primarily in product and process improvement; through this, I've gained a fair amount of experience managing a wide variety of laboratory equipment, including fragment analyzers, bioanalyzers, and laser scanners. 
 
+<i> Below: HiSeq 2500, iScan, CyBio FeliX </i>
+
 <span>
-<img src="./images/bioanalyzer.png" style="height:220px; width:190px">
-<img src="./images/iscan.png" style="height:200px; width:425px">
-<img src="./images/cybio.png" style="height:200px; width:300px">
+  <img src="./images/hiseq_2500.png" style="height:250px; width:220px">
+  <img src="./images/iscan.png" style="height:200px; width:425px">
+  <img src="./images/cybio.png" style="height:200px; width:300px">
 </span>
-
-<i>include "icons" of lab equipment with links to ref manuals" </i>
-
-Tecan EVO, Hamilton Star, Cybio FeliX, and the Agilent 2100 BioAnalyzer, fragment analyzers
 
 My experience with these equipments lies primarily in:
 -Method development
