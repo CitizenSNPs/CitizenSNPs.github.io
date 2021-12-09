@@ -4,7 +4,7 @@
 
 ### Data Analytics
 
-[Metrics and QC](/sample_page)
+[Metrics and QC](/analytics)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
