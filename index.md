@@ -27,25 +27,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[LIMS Integration](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[Sample Sheets](/sample_page)
-<img src="images/ForMario.png?raw=true"/>
-
----
 
 
 ### Lab Related Projects
 
-- [Project 1 Title](http://example.com/)
-
-
----
-
-
+[Project 1 Title](/sample_page)
+<img src="images/ForMario.png?raw=true"/>
 
 
 ---
