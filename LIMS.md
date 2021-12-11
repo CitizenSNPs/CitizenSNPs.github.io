@@ -4,4 +4,12 @@ In my time as an Automation Engineer, I took on managing the DevOps of a large L
 
 ###Design & Development
 
-First comes user requirements. In this case, the LIMS system encapsulates several stakeholders from several different LabOps groups, including Software Development, DevOps, and the CORE sequencing team. When dealing with a large collaborative group, it is vital to keep the different perspectives and expectations about the the future system in mind to ensure clarity and to capture and uncover user requirements in an efficient and effective manner. Once the user requirements are captured, I can build out software requirements that --- the capabilities and limitations of the LIMS platform. With this in mind, I was able to invent a new process that took the old system's AWS(S3) data pipeline and trasform it using AWS's Lambda service. The aim of this was to devliver secure data to and from the application without exposing proprietary data from the company's isilon space, with a developed Lambda script acting as the pipeline's middleware.
+First comes user requirements. In this case, the LIMS system encapsulates several stakeholders from several different LabOps groups, including Software Development, DevOps, and the CORE sequencing team. When dealing with a large collaborative group, it is vital to keep the different perspectives and expectations about the the future system in mind to ensure clarity and to capture and uncover user requirements in an efficient and effective manner. Once the user requirements are captured, I can build out software requirements that --- the capabilities and limitations of the LIMS platform. With this in mind, I was able to invent a new process that took the old system's AWS(S3) data pipeline and trasform it using AWS's Lambda service. The aim of this was to devliver secure data to and from the application at a reduced cost without exposing proprietary data from the company's isilon space, with the developed Lambda script acting as the pipeline's middleware.
+
+Leaning on the requirements of the previous application, I has able to create a process that would take user requests and scrum any associated run data for relevant headers. I personally created the middleware script using Python 3 and Illumina's InterOp library, allowing me to take the sequencer's binary files and extract meaningful metrics to be delivered back to a Salesforce LIMS application.
+
+https://illumina.github.io/interop/index.html
+
+***include workflow diagram
+
+
