@@ -23,7 +23,7 @@
 
 ### LIMS Development
 
-[LIMS Workflow](/sample_page)
+[LIMS Workflow](/LIMS)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
