@@ -28,7 +28,6 @@
 
 ---
 
-
 ### Misc
 
 [Projects](/Projects)
