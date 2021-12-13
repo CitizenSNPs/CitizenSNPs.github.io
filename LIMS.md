@@ -17,6 +17,7 @@ Leaning on the requirements of the inplace LIMS application, I was able to creat
 https://illumina.github.io/interop/index.html
 
 <img src="/images/Sample_workflow_wip.PNG">
+
 <video>
   <source src="/images/Sample_workflow_wip.MP4" type="video/mp4">
 </video>
