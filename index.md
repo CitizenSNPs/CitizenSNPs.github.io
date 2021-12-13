@@ -31,7 +31,7 @@
 
 ### Lab Related Projects
 
-[Project 1 Title](/Projects)
+[Misc Projects](/Projects)
 <img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
 
 
