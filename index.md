@@ -14,7 +14,6 @@
 [Automation & Machine Scripting](/lab_work)
 <img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
 
----
 
 [Software Validation](/validations)
 <img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
@@ -33,7 +32,6 @@
 [Projects](/Projects)
 <img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
 
----
 
 [Photos](/Photos)
 <img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
