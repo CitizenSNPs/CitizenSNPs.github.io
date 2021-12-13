@@ -29,12 +29,15 @@
 ---
 
 
-### Lab Related Projects
+### Misc
 
-[Misc Projects](/Projects)
+[Projects](/Projects)
 <img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
 
-
 ---
+
+[Photos](/Photos)
+<img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
