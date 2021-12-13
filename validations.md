@@ -16,3 +16,6 @@ This involves building user requirements, creating prerequisite data, defining a
 -Validation plan
 -Creating test cases
 -Validation Report
+
+<i> validation diagram WIP </i>
+<img src="/images/val_WIP.PNG">
