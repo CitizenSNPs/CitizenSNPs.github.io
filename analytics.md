@@ -1,5 +1,18 @@
 ## Data Analytics
 
+### Analytical Tools
+
+**What is this?** Below are recreations of some of the statistical tools I created in 2022 to perform multivariate analysis and A/B testing of biomarker data. These tools were generated in Python to generate and validate hypotheses and to support statistical/clinical teams in finding new leads. 
+
+<i>Certain features have been stripped to prevent exposure of proprietary/restricted material</i>
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+In 2022, I worked with the neuro-biomarker team at Janssen and had the opportunity to author my first paper. Click the link below to view the 2022 ECTRIMS abstract. The full publication will release late 2023.
+
+<a href="https://journals.sagepub.com/doi/epub/10.1177/13524585221123687"><i>Datta, R., & Kirksey, D. (2022). Preservation of myelin in patients with relapsing multiple sclerosis treated with ponesimod compared to teriflunomide. Multiple Sclerosis Journal, 632.</i></a>
+
+
 ### Lab Metrics and QC
 
 **What is this?** With the introduction of Ancestry DNA Health and a large scale-up in manufacturing throughput, a small team was put together to validate new metrics, investigate lab anomolies, and to track the overall health and quality of our laboratory operations. Welcome to my dashboard. In my experience working with both the front and backends of lab management, I've been afforded the opportunity to implemenent new processes, introduce new equipment, design new quality standards, and developing new validation protocols to the company's existing manufacturing workflows and SOPs.
