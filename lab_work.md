@@ -35,7 +35,8 @@ A few of my projects include:<br>
 
 I attended the Eppendorf Automation Summit in 2019. There I learned several lab-based platforms to fit various user needs. Using this knowledge, I used this knowledge to lead a project in late 2020 to automate Illumina's sample prep sequencing platform via the Cybio FeliX. I also attended a 2021 Webinar on process development and its challenges/developments in the vaccine industry.
 <br>
-### References
+<br>
+#### References
 Equipment manuals:<br>
 <br>
 <i>iScan:</i> <i>https://support-docs.illumina.com/ARR/iScan/Content/ARR/FrontPages/iscan.htm</i>
