@@ -18,6 +18,7 @@ As an example, I used a Kaggle dataset of video game sales to explore any meanin
 
 <img src="images/download (3).png?raw=true"/>
 <img src="images/download (4).png?raw=true"/>
+<img src="images/download (5).png?raw=true"/>
 
 ### Lab Metrics and QC
 
