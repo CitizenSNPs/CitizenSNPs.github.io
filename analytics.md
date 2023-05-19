@@ -49,7 +49,7 @@ In 2022, I worked with the neuro-biomarker team at Janssen Pharmaceuticals and h
 
 ### Jupyter Notebooks
 
-Click the icon below to see examples data mining I conducted to kickstart this dashboard. I use MS SQL Server and Python's pandas library for data cleaning and exploratory analysis, Python's scikit-learn library for machine learning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site.
+Click the icon below to see examples data mining I conducted in 2018 to kickstart this dashboard. I used MS SQL Server and Python's pandas library for data cleaning and exploratory analysis, Python's scikit-learn library for machine learning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site.
 
 <a href="./jupyters.md"><img src="./images/python_logo.jpg" height=200 width=230></a>
 
