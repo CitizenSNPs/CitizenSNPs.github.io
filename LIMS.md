@@ -1,10 +1,10 @@
-Development and Process Design
+## Development and Process Design
 
 At the beginning of 2020, I took on a large project to develop and maintain the backend environment for a large Laboratory Information Management System (LIMS) application. The aim of the application was to handle data migration from the Illumina sequencers to and from the company's isilon spaces. For a year and a half, I single-handedly maintained frontend (AngularJS), DevOps (Rancher), and backend/database (MySQL) operations for Illumina’s CORE LIMS system, SAGE/Rex, and migrated the application to a Rancher 2.x environment. This involved setting up the new Rancher environment and fitting it to a docker image, setting up the virtual nodes, and maintaining all user data from the existing system. This way, I could migrate old data and connect all lab users to their respective CORE projects by migrating old data to the new environment. 
 
 One of the largest scoped projects of my career was to lead in the design, development, and procurement effort for a replacement LIMS system and to monitor its release by Spring 2021. This involved leading a large interdepartmental team of subject matter experts to choose a platform, create user & software requirements, and to help lead in a year and a half long software procurement initiative.
 
-###Design & Development
+### Design & Development
 
 I follow a personal workflow when introducing new systems to an existing pipline. 
 
@@ -22,7 +22,7 @@ https://illumina.github.io/interop/index.html
   <source src="/images/Sample_workflow_wip.MP4" type="video/mp4">
 </video>
 
-*do not redistribute
-***include workflow diagram
+<i>*Not for redistribution. If found, please contact via email at derelle.p.kirksey@gmail.com</i>
+
 
 
