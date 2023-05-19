@@ -10,10 +10,12 @@ A few of my projects include:<br>
 <ul>
   <li>BeadPool Manufacturing<br>
   <li>Illumina's Infinium pharmacogenetics assay (Excalibur)<br>
-    <li>Development of enrichment method to Illumina's Razorfish automated assay<br>
+  <li>Development of enrichment method to Illumina's Razorfish automated assay<br>
   <li>ADNA Health (Feasibility)<br>
   <li>Illumina's Nighthawk and Razorfish+ assays<br>
 </ul>
+<br>
+<br>
 <b>Certifications:</b> <i>Hamilton MICROLAB VENUS Software Traning I #VST119.11; Tecan EvoWare Liquid Standard Standard Software Training I </i>
 <br>
 <br>
@@ -31,12 +33,13 @@ A few of my projects include:<br>
 
 <i> Above (left to right): HiSeq 2500, iScan, CyBio FeliX </i>
 <br>
+<br>
 <b>Development:</b> I create a deck layout using the liquid handling platform, add manual sequences, import the libraries, then BAM! From there, I can develop the protocol using new submethods and push any tracked data to the LIMS. Sequence data can be tracked and edited; I can then modularize my workflows for a subsequent import.
 
 I attended the Eppendorf Automation Summit in 2019. There I learned several lab-based platforms to fit various user needs. Using this knowledge, I used this knowledge to lead a project in late 2020 to automate Illumina's sample prep sequencing platform via the Cybio FeliX. I also attended a 2021 Webinar on process development and its challenges/developments in the vaccine industry.
 <br>
 <br>
-#### References
+### References
 Equipment manuals:<br>
 <br>
 <i>iScan:</i> <i>https://support-docs.illumina.com/ARR/iScan/Content/ARR/FrontPages/iscan.htm</i>
