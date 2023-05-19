@@ -25,8 +25,8 @@ As an example of this, I used a <a href="https://www.kaggle.com/datasets/gregoru
 
 <table>
   <tr>
-    <td><a href="./images/download (2)" download="DistPlot"><img src="images/download (2).png?raw=true"/></a></td>
-    <td><a href="./images/download (2)" download="BoxPlot"><img src="images/download (1).png?raw=true"/></a></td>
+    <td><a href="./images/download (2)" download="DistPlot"><img src="images/download (2).png?raw=true"></a></td>
+    <td><a href="./images/download (2)" download="BoxPlot"><img src="images/download (1).png?raw=true"></a></td>
   </tr>
  </table>
  
@@ -35,9 +35,9 @@ As an example of this, I used a <a href="https://www.kaggle.com/datasets/gregoru
 <br>
 <table>
    <tr>
-     <td><a href="./images/download (3)" download="Heatmap"><img src="images/download (3).png?raw=true"/></a></td>
-     <td><a href="./images/download (4)" download="RegPlot1"><img src="images/download (4).png?raw=true"/></a></td>
-     <td><a href="./images/download (5)" download="RegPlot2"><img src="images/download (5).png?raw=true"/></a></td>
+     <td><a href="./images/download (3)" download="Heatmap"><img src="images/download (3).png?raw=true"></a></td>
+     <td><a href="./images/download (4)" download="RegPlot1"><img src="images/download (4).png?raw=true"></a></td>
+     <td><a href="./images/download (5)" download="RegPlot2"><img src="images/download (5).png?raw=true"></a></td>
   </tr>
  </table>
  
