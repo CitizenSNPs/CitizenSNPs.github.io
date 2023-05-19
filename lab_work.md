@@ -14,7 +14,7 @@ A few of my projects include:<br>
   <li>ADNA Health (Feasibility)</li>
   <li>Illumina's Nighthawk and Razorfish+ assays</li>
 </ul>
-<br>
+
 <b>Certifications:</b> <i>Hamilton MICROLAB VENUS Software Traning I #VST119.11; Tecan EvoWare Liquid Standard Standard Software Training I </i>
 <br>
 <br>
@@ -23,9 +23,9 @@ A few of my projects include:<br>
 <br>
 <table>
   <tr style="height:75%">
-    <td><img src="./images/hiseq_2500.png" style="height:250px; width:220px"></td>
-    <td><img src="./images/iscan.png" style="height:200px; width:425px"></td>
-    <td><img src="./images/cybio.png" style="height:200px; width:300px"></td>
+    <td><img src="./images/hiseq_2500.png" style="height:200px; width:220px"></td>
+    <td><img src="./images/iscan.png" style="height:160px; width:425px"></td>
+    <td><img src="./images/cybio.png" style="height:160px; width:300px"></td>
   </tr>
   </table>
  
@@ -37,9 +37,8 @@ A few of my projects include:<br>
 
 I attended the Eppendorf Automation Summit in 2019. There I learned several lab-based platforms to fit various user needs. Using this knowledge, I used this knowledge to lead a project in late 2020 to automate Illumina's sample prep sequencing platform via the Cybio FeliX. I also attended a 2021 Webinar on process development and its challenges/developments in the vaccine industry.
 <br>
-<br>
 ### References
-Equipment manuals:<br>
+<b>Equipment manuals:</b><br>
 <br>
 <i>iScan:</i> <i>https://support-docs.illumina.com/ARR/iScan/Content/ARR/FrontPages/iscan.htm</i>
 <br>
