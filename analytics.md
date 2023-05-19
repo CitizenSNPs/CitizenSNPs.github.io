@@ -1,34 +1,5 @@
 ## Data Analytics
 
-### Analytical Tools
-
-**What is this?** Below are recreations of some of the statistical tools I created in 2022 to perform multivariate analysis and A/B testing of biomarker data. These tools were generated in Python to generate and validate hypotheses and to support statistical/clinical teams in finding new leads. 
-
-As an example, I used a <a href="https://www.kaggle.com/datasets/gregorut/videogamesales">Kaggle dataset of video game sales</a> to explore any meaningful insights among the top video game publishers. I used <a href="https://www.kaggle.com/budincsevity/szeged-weather">another Kaggle dataset</a> to show the relationship between weather and humidity in Szeged, Hungary. All plots were created from scratch using matplotlib and the seaborn library in Python. 
-<br>
-<br>
-<i>Certain features have been stripped to prevent exposure of proprietary/restricted material.</i>
-
-<table>
-  <tr>
-    <td><img src="images/download (2).png?raw=true"/></td>
-    <td><img src="images/download (1).png?raw=true"/></td>
-  </tr>
- </table>
-
-<table>
-   <tr>
-     <td><img src="images/download (3).png?raw=true"/></td>
-     <td><img src="images/download (4).png?raw=true"/></td>
-     <td><img src="images/download (5).png?raw=true"/></td>
-  </tr>
- </table>
-
-In 2022, I worked with the neuro-biomarker team at Janssen Pharmaceuticals and had the opportunity to author my first paper. Click the link below to view the 2022 ECTRIMS abstract. The full publication will release late 2023.
-
-<a href="https://journals.sagepub.com/doi/epub/10.1177/13524585221123687"><i>Datta, R., & Kirksey, D. (2022). Preservation of myelin in patients with relapsing multiple sclerosis treated with ponesimod compared to teriflunomide. Multiple Sclerosis Journal, 632.</i></a>
-
-
 ### Lab Metrics and QC
 
 **What is this?** With the introduction of Ancestry DNA Health and a large scale-up in manufacturing throughput, a small team was put together to validate new metrics, investigate lab anomolies, and to track the overall health and quality of our laboratory operations. Welcome to my dashboard. In my experience working with both the front and backends of lab management, I've been afforded the opportunity to implemenent new processes, introduce new equipment, design new quality standards, and developing new validation protocols to the company's existing manufacturing workflows and SOPs.
@@ -45,9 +16,40 @@ I attended WeWork's <i>Intermediate/Advanced Tableau Visualization Training</i> 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
+### Analytical Tools
+
+**What is this?** Below are recreations of some of the statistical tools I created in 2022 to perform multivariate analysis & A/B testing of biomarker data. I created these tools in Python to generate and validate hypotheses and to support statistical/clinical teams in finding new leads. 
+
+As an example of this, I used a <a href="https://www.kaggle.com/datasets/gregorut/videogamesales">Kaggle dataset of video game sales</a> to explore any meaningful insights in sales among the top video game publishers in North America. 
+
+<table>
+  <tr>
+    <td><img src="images/download (2).png?raw=true"/></td>
+    <td><img src="images/download (1).png?raw=true"/></td>
+  </tr>
+ </table>
+ 
+ I also used <a href="https://www.kaggle.com/budincsevity/szeged-weather">another Kaggle dataset</a> to show the relationship between weather and humidity in Szeged, Hungary from 2006-2016. All plots were created from scratch using matplotlib and the seaborn library in Python. 
+<br>
+<br>
+<table>
+   <tr>
+     <td><img src="images/download (3).png?raw=true"/></td>
+     <td><img src="images/download (4).png?raw=true"/></td>
+     <td><img src="images/download (5).png?raw=true"/></td>
+  </tr>
+ </table>
+ 
+ <i>Certain features have been stripped to prevent exposure of proprietary/restricted material.</i>
+
+In 2022, I worked with the neuro-biomarker team at Janssen Pharmaceuticals and had the opportunity to author my first paper. Click the link below to view the 2022 ECTRIMS abstract. The full publication will release late 2023.
+
+<a href="https://journals.sagepub.com/doi/epub/10.1177/13524585221123687"><i>Datta, R., & Kirksey, D. (2022). Preservation of myelin in patients with relapsing multiple sclerosis treated with ponesimod compared to teriflunomide. Multiple Sclerosis Journal, 632.</i></a>
+
 ### Jupyter Notebooks
 
-Click the icon below to see examples data mining I conducted to kickstart this dashboard. I use MS SQL Server and Python's pandas library for data cleaning and exploratory analysis, Python's scikit-learn library for machine learning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site at -----.
+Click the icon below to see examples data mining I conducted to kickstart this dashboard. I use MS SQL Server and Python's pandas library for data cleaning and exploratory analysis, Python's scikit-learn library for machine learning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site.
 
 <a href="./jupyters.md"><img src="./images/python_logo.jpg" height=200 width=230></a>
 
