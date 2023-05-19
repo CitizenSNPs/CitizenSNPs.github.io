@@ -51,7 +51,7 @@ In 2022, I worked with the neuro-biomarker team at Janssen Pharmaceuticals and h
 
 Click the icon below to see examples data mining I conducted in 2018 to kickstart this dashboard. I used MS SQL Server and Python's pandas library for data cleaning and exploratory analysis, Python's scikit-learn library for machine learning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site.
 
-<a href="./images/" download="Analysis_2018"><img src="./images/python_logo.jpg" height=200 width=230></a>
+<a href="./images/Analysis_2018.zip" download="Analysis_2018"><img src="./images/python_logo.jpg" height=200 width=230></a>
 
 <i>Any Personally-Indentifiable or Protected Health Information has been removed to ensure fair-use. </i>
 
