@@ -4,21 +4,28 @@
 
 **What is this?** Below are recreations of some of the statistical tools I created in 2022 to perform multivariate analysis and A/B testing of biomarker data. These tools were generated in Python to generate and validate hypotheses and to support statistical/clinical teams in finding new leads. 
 
+As an example, I used a <a href="https://www.kaggle.com/datasets/gregorut/videogamesales">Kaggle dataset of video game sales</a> to explore any meaningful insights among the top video game publishers. I used <a href=https://www.kaggle.com/budincsevity/szeged-weather>another Kaggle dataset</a> to show the relationship between weather and humidity in Szeged, Hungary. All plots were created from scratch using matplotlib and the seaborn library in Python. 
 <i>Certain features have been stripped to prevent exposure of proprietary/restricted material</i>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<table>
+  <tr>
+    <td><img src="images/download (2).png?raw=true"/></td>
+    <td><img src="images/download (1).png?raw=true"/></td>
+  </tr>
+ </table>
+
+<table>
+   <tr>
+     <td><img src="images/download (3).png?raw=true"/></td>
+     <td><img src="images/download (4).png?raw=true"/></td>
+     <td><img src="images/download (5).png?raw=true"/></td>
+  </tr>
+ </table>
 
 In 2022, I worked with the neuro-biomarker team at Janssen and had the opportunity to author my first paper. Click the link below to view the 2022 ECTRIMS abstract. The full publication will release late 2023.
 
 <a href="https://journals.sagepub.com/doi/epub/10.1177/13524585221123687"><i>Datta, R., & Kirksey, D. (2022). Preservation of myelin in patients with relapsing multiple sclerosis treated with ponesimod compared to teriflunomide. Multiple Sclerosis Journal, 632.</i></a>
 
-As an example, I used a Kaggle dataset of video game sales to explore any meaningful insights among the top video game publishers. All plots were created using matplotlib and the Python seaborn library. https://www.kaggle.com/datasets/gregorut/videogamesales
-<img src="images/download (2).png?raw=true"/>
-<img src="images/download (1).png?raw=true"/>
-
-<img src="images/download (3).png?raw=true"/>
-<img src="images/download (4).png?raw=true"/>
-<img src="images/download (5).png?raw=true"/>
 
 ### Lab Metrics and QC
 
@@ -40,10 +47,9 @@ I attended WeWork's <i>Intermediate/Advanced Tableau Visualization Training</i> 
 
 ### Jupyter Notebooks
 
-**What is this?** Click the icon below to see examples data mining I conducted to kickstart this dashboard. I use MS SQL Server and Python's pandas library for data cleaning and exploratory analysis, Python's scikit-learn library for machine learning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site at -----.
+Click the icon below to see examples data mining I conducted to kickstart this dashboard. I use MS SQL Server and Python's pandas library for data cleaning and exploratory analysis, Python's scikit-learn library for machine learning, and Python's matplotlib and seaborn libraries for visualization. For more information, visit my Tableau site at -----.
 
 <a href="./jupyters.md"><img src="./images/transparent-python-icon-development-icon-5fc9238ae6f1e2.901731871607017354946.jpg"></a>
-
 
 <i>Any Personally-Indentifiable or Protected Health Information has been removed to ensure fair-use. </i>
 
