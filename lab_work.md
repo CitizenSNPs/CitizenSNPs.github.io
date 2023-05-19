@@ -15,7 +15,6 @@ A few of my projects include:<br>
   <li>Illumina's Nighthawk and Razorfish+ assays</li>
 </ul>
 <br>
-<br>
 <b>Certifications:</b> <i>Hamilton MICROLAB VENUS Software Traning I #VST119.11; Tecan EvoWare Liquid Standard Standard Software Training I </i>
 <br>
 <br>
@@ -48,6 +47,6 @@ Equipment manuals:<br>
 <br>
 <i>Hamilton STAR:</i>  <i>https://www.illumina.com/content/dam/illumina-support/documents/documentation/system_documentation/mlstar/hamilton-ml-star-reference-guide-15070074-a.pdf</i>
 <br>
-<i>NGS Library Prep</i></i> https://www.illumina.com/techniques/sequencing/ngs-library-prep/dna.html
+<i>NGS Library Prep</i> https://www.illumina.com/techniques/sequencing/ngs-library-prep/dna.html
 
 
