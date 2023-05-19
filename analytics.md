@@ -25,8 +25,8 @@ As an example of this, I used a <a href="https://www.kaggle.com/datasets/gregoru
 
 <table>
   <tr>
-    <td><a href="./images/download (2)" download="DistPlot"><img src="images/download (2).png?raw=true"></a></td>
-    <td><a href="./images/download (2)" download="BoxPlot"><img src="images/download (1).png?raw=true"></a></td>
+    <td><a href="./images/download (2)" download="DistPlot.png"><img src="images/download (2).png?raw=true"></a></td>
+    <td><a href="./images/download (2)" download="BoxPlot.png"><img src="images/download (1).png?raw=true"></a></td>
   </tr>
  </table>
  
