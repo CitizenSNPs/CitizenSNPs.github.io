@@ -20,24 +20,25 @@ A few of my projects include:<br>
 
 **Equipment:** Though most of my experience lies in liquid-handler automation, my background lies primarily in method development, process improvement, and PQ/IQ/OQ tasks; In my time at Illumina, I've gained a fair amount of experience managing a wide variety of laboratory equipment, including fragment analyzers, bioanalyzers, and laser scanners. I have some familiarity with Archimedes scanners and extensive experience with iScans. In my time as an Automation Engineer, I took the time to create an engineering quality manual to outline my progress and to develop the role for future hires. In addition to defining quality standards, the manual includes various tools for method development and revising SOPs, user trainings, service contracts, reference manuals, and other resources for asset management.
 
-<span>
-  <img src="./images/hiseq_2500.png" style="height:250px; width:220px">
-  <img src="./images/iscan.png" style="height:200px; width:425px">
-  <img src="./images/cybio.png" style="height:200px; width:300px">
-</span>
+<table>
+  <tr>
+    <td><img src="./images/hiseq_2500.png" style="height:250px; width:220px"></td>
+    <td><img src="./images/iscan.png" style="height:200px; width:425px"></td>
+    <td><img src="./images/cybio.png" style="height:200px; width:300px"></td>
+  </tr>
+  </table>
+ 
 
 <i> Above (left to right): HiSeq 2500, iScan, CyBio FeliX </i>
 
 **Development:**
 I create a deck layout using the liquid handling platform, add manual sequences, import the libraries, then BAM! From there, I can develop the protocol using new submethods and push any tracked data to the LIMS. Sequence data can be tracked and edited; I can then modularize my workflows for a subsequent import.
 
- +include infographics to show method development - deck layout -> sequences -> offline testing -> lims tracking
-
 I attended the Eppendorf Automation Summit in 2019. There I learned several lab-based platforms to fit various user needs. Using this knowledge, I used this knowledge to lead a project in late 2020 to automate Illumina's sample prep sequencing platform via the Cybio FeliX. I also attended a 2021 Webinar on process development and its challenges/developments in the vaccine industry.
-
+<br>
 ### References
 Equipment manuals:<br>
-
+<br>
 <i>iScan:</i> <i>https://support-docs.illumina.com/ARR/iScan/Content/ARR/FrontPages/iscan.htm</i><br>
 <i>Illumina LIMS:</i>  <i>https://support.illumina.com/content/dam/illumina-marketing/documents/products/datasheets/datasheet_lims.pdf</i><br>
 <i>Hamilton STAR:</i>  <i>https://www.illumina.com/content/dam/illumina-support/documents/documentation/system_documentation/mlstar/hamilton-ml-star-reference-guide-15070074-a.pdf</i><br>
