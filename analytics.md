@@ -13,8 +13,8 @@ In 2022, I worked with the neuro-biomarker team at Janssen and had the opportuni
 <a href="https://journals.sagepub.com/doi/epub/10.1177/13524585221123687"><i>Datta, R., & Kirksey, D. (2022). Preservation of myelin in patients with relapsing multiple sclerosis treated with ponesimod compared to teriflunomide. Multiple Sclerosis Journal, 632.</i></a>
 
 As an example, I used a Kaggle dataset of video game sales to explore any meaningful insights among the top video game publishers. All plots were created using matplotlib and the Python seaborn library. https://www.kaggle.com/datasets/gregorut/videogamesales
-<img src="images/download (1).png?raw=true"/>
 <img src="images/download (2).png?raw=true"/>
+<img src="images/download (1).png?raw=true"/>
 
 ### Lab Metrics and QC
 
