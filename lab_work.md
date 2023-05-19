@@ -20,7 +20,6 @@ A few of my projects include:<br>
 <br>
 <b>Equipment:</b> Though most of my experience lies in liquid-handler automation, my background lies primarily in method development, process improvement, and PQ/IQ/OQ tasks; In my time at Illumina, I've gained a fair amount of experience managing a wide variety of laboratory equipment, including fragment analyzers, bioanalyzers, and laser scanners. I have some familiarity with Archimedes scanners and extensive experience with iScans. In my time as an Automation Engineer, I took the time to create an engineering quality manual to outline my progress and to develop the role for future hires. In addition to defining quality standards, the manual includes various tools for method development and revising SOPs, user trainings, service contracts, reference manuals, and other resources for asset management.
 <br>
-<br>
 <table>
   <tr style="height:75%">
     <td><img src="./images/hiseq_2500.png" style="height:180px; width:220px"></td>
