@@ -8,11 +8,11 @@ I have experience scripting several microarray assays, including Illumina's Infi
 
 A few of my projects include:<br>
 <ul>
-  <li>BeadPool Manufacturing<br>
-  <li>Illumina's Infinium pharmacogenetics assay (Excalibur)<br>
-  <li>Development of enrichment method to Illumina's Razorfish automated assay<br>
-  <li>ADNA Health (Feasibility)<br>
-  <li>Illumina's Nighthawk and Razorfish+ assays<br>
+  <li>BeadPool Manufacturing</li><br>
+  <li>Illumina's Infinium pharmacogenetics assay (Excalibur)</li><br>
+  <li>Development of enrichment method to Illumina's Razorfish automated assay</li><br>
+  <li>ADNA Health (Feasibility)</li><br>
+  <li>Illumina's Nighthawk and Razorfish+ assays</li><br>
 </ul>
 <br>
 <br>
