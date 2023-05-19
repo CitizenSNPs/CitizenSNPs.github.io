@@ -4,7 +4,7 @@
 
 **What is this?** Below are recreations of some of the statistical tools I created in 2022 to perform multivariate analysis and A/B testing of biomarker data. These tools were generated in Python to generate and validate hypotheses and to support statistical/clinical teams in finding new leads. 
 
-As an example, I used a <a href="https://www.kaggle.com/datasets/gregorut/videogamesales">Kaggle dataset of video game sales</a> to explore any meaningful insights among the top video game publishers. I used <a href=https://www.kaggle.com/budincsevity/szeged-weather>another Kaggle dataset</a> to show the relationship between weather and humidity in Szeged, Hungary. All plots were created from scratch using matplotlib and the seaborn library in Python. 
+As an example, I used a <a href="https://www.kaggle.com/datasets/gregorut/videogamesales">Kaggle dataset of video game sales</a> to explore any meaningful insights among the top video game publishers. I used <a href="https://www.kaggle.com/budincsevity/szeged-weather">another Kaggle dataset</a> to show the relationship between weather and humidity in Szeged, Hungary. All plots were created from scratch using matplotlib and the seaborn library in Python. 
 <i>Certain features have been stripped to prevent exposure of proprietary/restricted material</i>
 
 <table>
