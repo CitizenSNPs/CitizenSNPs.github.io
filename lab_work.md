@@ -23,9 +23,9 @@ A few of my projects include:<br>
 <br>
 <table>
   <tr style="height:75%">
-    <td><img src="./images/hiseq_2500.png" style="height:200px; width:220px"></td>
-    <td><img src="./images/iscan.png" style="height:160px; width:425px"></td>
-    <td><img src="./images/cybio.png" style="height:160px; width:300px"></td>
+    <td><img src="./images/hiseq_2500.png" style="height:180px; width:220px"></td>
+    <td><img src="./images/iscan.png" style="height:146px; width:425px"></td>
+    <td><img src="./images/cybio.png" style="height:146px; width:300px"></td>
   </tr>
   </table>
  
