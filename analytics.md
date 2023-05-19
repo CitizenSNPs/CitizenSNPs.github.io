@@ -16,6 +16,9 @@ As an example, I used a Kaggle dataset of video game sales to explore any meanin
 <img src="images/download (2).png?raw=true"/>
 <img src="images/download (1).png?raw=true"/>
 
+<img src="images/download (3).png?raw=true"/>
+<img src="images/download (4).png?raw=true"/>
+
 ### Lab Metrics and QC
 
 **What is this?** With the introduction of Ancestry DNA Health and a large scale-up in manufacturing throughput, a small team was put together to validate new metrics, investigate lab anomolies, and to track the overall health and quality of our laboratory operations. Welcome to my dashboard. In my experience working with both the front and backends of lab management, I've been afforded the opportunity to implemenent new processes, introduce new equipment, design new quality standards, and developing new validation protocols to the company's existing manufacturing workflows and SOPs.
