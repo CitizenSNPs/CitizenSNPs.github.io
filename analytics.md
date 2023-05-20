@@ -14,7 +14,7 @@ I attended WeWork's <i>Intermediate/Advanced Tableau Visualization Training</i> 
 **Project description:** Below are examples of data mining using Python, R, T-SQL, and Tableau to rank nonconformances among different laboratory conditions. Python was used to group affected sample batches and map them to each experimental condition using Pandas and Scikit-learn. Grouped data were then tested for concordance and mapped to several equipment run conditions. 
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="./images/Dashboard 1.png" download="Lab Dashboard"><img src="./images/Dashboard 1.png?raw=true"/></a>
 
 
 ### Analytical Tools
