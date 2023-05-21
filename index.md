@@ -5,7 +5,7 @@
 ### Data Analytics
 
 [Metrics and QC](/analytics)
-<img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
+<img src="./images/analytics_thumb2.png?raw=true" style="box-shadow: 5px 5px 7px lightgray">
 
 ---
 
