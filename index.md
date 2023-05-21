@@ -12,7 +12,7 @@
 ### Lab Management & Automation
 
 [Automation & Machine Scripting](/lab_work)
-<img src="images/dummy_thumbnail.jpg?raw=true" style="box-shadow: 5px 5px 7px lightgray">
+<img src="images/analyticscard3.JPG?raw=true" style="box-shadow: 5px 5px 7px lightgray">
 
 
 [Software Validation](/validations)
