@@ -6,22 +6,18 @@ One of the largest scoped projects of my career was to lead in the design, devel
 
 ### Design & Development
 
-I follow a personal workflow when introducing new systems to an existing pipline. 
+I follow a personal workflow when introducing new systems to an existing pipline:
 
 **First comes user requirements.** What does the client need? In this case, the LIMS system encapsulates several stakeholders from several different LabOps groups, including Software Development, DevOps, and the laboratory's CORE sequencing team. When dealing with a large collaborative group, it is vital to keep the different perspectives and expectations about the the future system in mind to ensure clarity and to capture/uncover user requirements in an efficient and effective manner. 
 
 **Next come sofware requirements.** Once user reqs are captured, I can build out software requirements that highlight the capabilities and take into the consideration the limitations of the software platform. With this in mind, I was able to invent a new process that took the laboratory's old AWS(S3) pipeline and transform it using AWS's Lambda service. The aim of this was to deliver secure data to and from the application at a reduced cost without exposing proprietary data from the company's isilon space. I accomplished this by developing a Lambda script to act as the pipeline's middleware.
 
-Leaning on the requirements of the inplace LIMS application, I was able to create and develop a process that would take user requests and scrum any associated run data for relevant headers based on equipment type. I personally created the middleware script using Python 3 and Illumina's InterOp library, allowing the script to read the sequencer's binary files from its asscociate isilon spaces and extract meaningful metrics to be delivered back to the Salesforce LIMS application as a single packaged JSON file.
+Leaning on the requirements of the inplace LIMS application, I was able to create and develop a process that would take user requests and scrum any associated run data for relevant headers based on equipment type. I personally created the middleware script using Python 3 and Illumina's InterOp library, allowing the script to read the sequencer's binary files from its associated isilon spaces and extract meaningful metrics to be delivered back to the Salesforce LIMS application as a single packaged JSON file.
 
-https://illumina.github.io/interop/index.html
+<b>Illumina's InterOp Library:</b>https://illumina.github.io/interop/index.html
 
 <img src="/images/Sample_workflow_wip.PNG">
-
-<video>
-  <source src="/images/Sample_workflow_wip.MP4" type="video/mp4">
-</video>
-
+<br>
 <i>*Not for redistribution. If found, please contact via email at derelle.p.kirksey@gmail.com</i>
 
 
