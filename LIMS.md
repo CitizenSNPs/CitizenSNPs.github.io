@@ -16,7 +16,7 @@ Leaning on the requirements of the inplace LIMS application, I was able to creat
 
 <b>Illumina's InterOp Library:</b>https://illumina.github.io/interop/index.html
 
-<img src="/images/Sample_workflow_wip.PNG">
+<img src="/images/lims_pipeline.PNG">
 <br>
 <i>*Not for redistribution. If found, please contact via email at derelle.p.kirksey@gmail.com</i>
 
