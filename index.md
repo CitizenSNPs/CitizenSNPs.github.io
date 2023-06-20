@@ -7,7 +7,7 @@
 [Metrics and QC](/analytics)
 <span style="border-radius:10px;"><img src="images/analyticscard3.JPG?raw=true" width="95%" height="115%" style="box-shadow: 5px 5px 7px lightgray"></span>
 
-[Business Analytics and Machine Learning](/business)
+[Business Analytics and Machine Learning (WIP)](/business)
 <span style="border-radius:10px;"><img src="images/dummy_thumbnail.jpg?raw=true" width="95%" height="115%" style="box-shadow: 5px 5px 7px lightgray"></span>
 
 ---
